@@ -1,0 +1,17 @@
+**logs
+**.idea
+**.ipr
+**.iws
+**.iml
+**.settings
+**.project
+**.classpath
+**.DS_Store
+**.externalToolBuilders
+**.springBeans
+**.bak
+**/META-INF
+**/bin/**
+**/target
+**/test-output
+spark-warehouse/
